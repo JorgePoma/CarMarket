@@ -27,6 +27,7 @@ export default Brands;
 //configuracion para la lista de marcas
 const Container = styled.div`
     margin-top: 30px;
+    margin-bottom: 30px;
     display: grid;
     padding: 0px 0px 26px;
     grid-gap: 25px;
